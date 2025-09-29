@@ -1,3 +1,5 @@
+package se331;
+
 public class AdvancedCalculator extends Calculator {
     public double power(int base, int exponent) {
         return Math.pow(base, exponent);
