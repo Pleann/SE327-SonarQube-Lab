@@ -1,4 +1,4 @@
-package se331;
+package se.se331;
 
 public class AdvancedCalculator extends Calculator {
     public double power(int base, int exponent) {

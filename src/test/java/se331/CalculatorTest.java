@@ -1,6 +1,7 @@
 package se331;
 
 import org.junit.jupiter.api.Test;
+import se.se331.Calculator;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
